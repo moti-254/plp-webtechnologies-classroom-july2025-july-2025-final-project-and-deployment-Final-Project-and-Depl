@@ -71,14 +71,14 @@ function initProductFiltering() {
     
     // Sample product data
     const products = [
-        { id: 1, name: 'Ceramic Mug', price: '$28.00', category: 'ceramics', image: 'images/product-1.jpg', description: 'Hand-thrown stoneware mug with unique glaze patterns' },
-        { id: 2, name: 'Handwoven Scarf', price: '$45.00', category: 'textiles', image: 'images/product-2.jpg', description: 'Soft wool scarf woven using traditional techniques' },
-        { id: 3, name: 'Wooden Cutting Board', price: '$35.00', category: 'woodwork', image: 'images/product-3.jpg', description: 'Maple wood board with natural oil finish' },
-        { id: 4, name: 'Silver Pendant', price: '$65.00', category: 'jewelry', image: 'images/product-4.jpg', description: 'Handcrafted silver pendant with gemstone' },
-        { id: 5, name: 'Ceramic Vase', price: '$55.00', category: 'ceramics', image: 'images/product-5.jpg', description: 'Elegant vase with intricate hand-painted details' },
-        { id: 6, name: 'Wool Blanket', price: '$120.00', category: 'textiles', image: 'images/product-6.jpg', description: 'Warm wool blanket perfect for cozy evenings' },
-        { id: 7, name: 'Wooden Bowl', price: '$40.00', category: 'woodwork', image: 'images/product-7.jpg', description: 'Hand-carved wooden bowl for serving or display' },
-        { id: 8, name: 'Leather Bracelet', price: '$25.00', category: 'jewelry', image: 'images/product-8.jpg', description: 'Genuine leather bracelet with metal clasp' },
+        { id: 1, name: 'Ceramic Mug', price: '$28.00', category: 'ceramics', image: 'Images/product-1.jpg', description: 'Hand-thrown stoneware mug with unique glaze patterns' },
+        { id: 2, name: 'Handwoven Scarf', price: '$45.00', category: 'textiles', image: 'Images/product-2.jpg', description: 'Soft wool scarf woven using traditional techniques' },
+        { id: 3, name: 'Wooden Cutting Board', price: '$35.00', category: 'woodwork', Image: 'images/product-3.jpg', description: 'Maple wood board with natural oil finish' },
+        { id: 4, name: 'Silver Pendant', price: '$65.00', category: 'jewelry', image: 'Images/product-4.jpg', description: 'Handcrafted silver pendant with gemstone' },
+        { id: 5, name: 'Ceramic Vase', price: '$55.00', category: 'ceramics', image: 'Images/product-5.jpg', description: 'Elegant vase with intricate hand-painted details' },
+        { id: 6, name: 'Wool Blanket', price: '$120.00', category: 'textiles', image: 'Images/product-6.jpg', description: 'Warm wool blanket perfect for cozy evenings' },
+        { id: 7, name: 'Wooden Bowl', price: '$40.00', category: 'woodwork', image: 'Images/product-7.jpg', description: 'Hand-carved wooden bowl for serving or display' },
+        { id: 8, name: 'Leather Bracelet', price: '$25.00', category: 'jewelry', image: 'Images/product-8.jpg', description: 'Genuine leather bracelet with metal clasp' },
         { id: 9, name: 'Tea Set', price: '$85.00', category: 'ceramics', image: 'https://placehold.co/400x300/8B4513/white?text=Tea+Set', description: 'Complete ceramic tea set for two' },
         { id: 10, name: 'Silk Scarf', price: '$60.00', category: 'textiles', image: 'https://placehold.co/400x300/8B4513/white?text=Silk+Scarf', description: 'Luxurious silk scarf with vibrant patterns' },
         { id: 11, name: 'Cheese Board', price: '$50.00', category: 'woodwork', image: 'https://placehold.co/400x300/8B4513/white?text=Cheese+Board', description: 'Beautiful wooden board for cheese serving' },
