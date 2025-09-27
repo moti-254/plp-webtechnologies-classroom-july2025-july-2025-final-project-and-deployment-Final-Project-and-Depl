@@ -71,9 +71,9 @@ function initProductFiltering() {
     
     // Sample product data
     const products = [
-        { id: 1, name: 'Ceramic Mug', price: '$28.00', category: 'ceramics', Image: 'Images/product-1.jpg', description: 'Hand-thrown stoneware mug with unique glaze patterns' },
+        { id: 1, name: 'Ceramic Mug', price: '$28.00', category: 'ceramics', image: 'Images/product-1.jpg', description: 'Hand-thrown stoneware mug with unique glaze patterns' },
         { id: 2, name: 'Handwoven Scarf', price: '$45.00', category: 'textiles', image: 'Images/product-2.jpg', description: 'Soft wool scarf woven using traditional techniques' },
-        { id: 3, name: 'Wooden Cutting Board', price: '$35.00', category: 'woodwork', Image: 'images/product-3.jpg', description: 'Maple wood board with natural oil finish' },
+        { id: 3, name: 'Wooden Cutting Board', price: '$35.00', category: 'woodwork', image: 'Images/product-3.jpg', description: 'Maple wood board with natural oil finish' },
         { id: 4, name: 'Silver Pendant', price: '$65.00', category: 'jewelry', image: 'Images/product-4.jpg', description: 'Handcrafted silver pendant with gemstone' },
         { id: 5, name: 'Ceramic Vase', price: '$55.00', category: 'ceramics', image: 'Images/product-5.jpg', description: 'Elegant vase with intricate hand-painted details' },
         { id: 6, name: 'Wool Blanket', price: '$120.00', category: 'textiles', image: 'Images/product-6.jpg', description: 'Warm wool blanket perfect for cozy evenings' },
